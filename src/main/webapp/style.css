@@ -1,0 +1,61 @@
+@charset "UTF-8";
+
+* {
+    font-family: "Nanum Gothic";
+}
+
+header {
+    padding: 0.1rem 0;
+}
+
+.inputForm {
+    padding-top: 0.5rem;
+}
+
+.load-Wifi {
+    text-align: center;
+}
+
+table {
+    border: 1px solid whitesmoke;
+    display: table;
+    table-layout: fixed;
+    width: 100%;
+    border-collapse: collapse;
+    border: 1px solid;
+}
+
+.table-col {
+    background-color: rgb(13, 168, 132);
+    color: white;
+}
+
+
+table {
+    border-color: lightgray;
+
+    th {
+        padding: .5rem 0;
+        text-align: center;
+        border: 1px solid white;
+    }
+
+    tr {
+    }
+
+    tr:nth-child(even) {
+        background-color: floralwhite;
+    }
+
+    td {
+        border: 1px solid lightgray;
+        padding: 0.3rem 0.5rem;
+    }
+}
+
+.table-annotation {
+    text-align: center;
+    padding: 2rem 0;
+}
+
+
