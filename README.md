@@ -98,10 +98,10 @@
 
 <hr/>
 
-<figure style="text-align: center">
+<p style="text-align: center">
 <img src="https://private-user-images.githubusercontent.com/68772640/323541362-d4703b99-45b2-484d-a80e-78fd53e92d98.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTM0MzMyODAsIm5iZiI6MTcxMzQzMjk4MCwicGF0aCI6Ii82ODc3MjY0MC8zMjM1NDEzNjItZDQ3MDNiOTktNDViMi00ODRkLWE4MGUtNzhmZDUzZTkyZDk4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA0MTglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNDE4VDA5MzYyMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTA5NWU3MDFmODA1ZWY2NTM3YTdlZTAzZDA1YTI1MzNkZWYxZGEwMjg2MGUyMDBmMWQ5ZGVjZTc1OTkwMjEwODEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.q-SqibrIvoiKX1rYtVr0H_bB590A_10VOZ3CK8r0T3w" width="100%">
-<figcaption>서비스 구현 전체</figcaption>
-</figure>
+서비스 구현 전체
+</p>
 
 | ![load-wifiInfo](https://private-user-images.githubusercontent.com/68772640/323534117-d427cdd5-1a9e-4a42-9ef8-6520695d410f.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTM0MzMyODAsIm5iZiI6MTcxMzQzMjk4MCwicGF0aCI6Ii82ODc3MjY0MC8zMjM1MzQxMTctZDQyN2NkZDUtMWE5ZS00YTQyLTllZjgtNjUyMDY5NWQ0MTBmLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA0MTglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNDE4VDA5MzYyMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWI0YmQ0YmU0YjM5MGEwOTk3YTk0YTQxNTRhZmE4ZjAwMjY0M2JlZDE4MWI1NzgwNzI2ODgxMmI0NzRmYmYxMTAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.OK92fHfz4RQFxw9Y1VuJMm3aFZCbVw1_72KLvUWp9aw) 공공와이파이 API 호출 | 
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
