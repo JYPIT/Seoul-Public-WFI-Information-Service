@@ -3,10 +3,6 @@
 <hr/>
 
 ![wifi](https://github.com/JYPIT/zerobase-study22/assets/68772640/b265c829-7099-4c5b-a72d-9071254ef4b6)
-![wifi](https://private-user-images.githubusercontent.com/68772640/323278701-b265c829-7099-4c5b-a72d-9071254ef4b6.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTM0MzQ5NzcsIm5iZiI6MTcxMzQzNDY3NywicGF0aCI6Ii82ODc3MjY0MC8zMjMyNzg3MDEtYjI2NWM4MjktNzA5OS00YzViLWE3MmQtOTA3MTI1NGVmNGI2LmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA0MTglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNDE4VDEwMDQzN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTkyNjE0NTUxNWZlZGE4MTBmNDgxYTQ2MjE5MjBmYmEzMWZjZGNkYWUzOWJlMDU2NWNlYWE1NzFhOGE2OTMxZGQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.yuYYu_eIbbPfjGpFNvVulIhWN8zFYrk2mp3Ov3aaSR0)
-![wifi](https://private-user-images.githubusercontent.com/68772640/323278701-b265c829-7099-4c5b-a72d-9071254ef4b6.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTM0MzQ5NzcsIm5iZiI6MTcxMzQzNDY3NywicGF0aCI6Ii82ODc3MjY0MC8zMjMyNzg3MDEtYjI2NWM4MjktNzA5OS00YzViLWE3MmQtOTA3MTI1NGVmNGI2LmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA0MTglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNDE4VDEwMDQzN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTkyNjE0NTUxNWZlZGE4MTBmNDgxYTQ2MjE5MjBmYmEzMWZjZGNkYWUzOWJlMDU2NWNlYWE1NzFhOGE2OTMxZGQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.yuYYu_eIbbPfjGpFNvVulIhWN8zFYrk2mp3Ov3aaSR0)
-![wifi](https://private-user-images.githubusercontent.com/68772640/323278701-b265c829-7099-4c5b-a72d-9071254ef4b6.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTM0MzUwNDIsIm5iZiI6MTcxMzQzNDc0MiwicGF0aCI6Ii82ODc3MjY0MC8zMjMyNzg3MDEtYjI2NWM4MjktNzA5OS00YzViLWE3MmQtOTA3MTI1NGVmNGI2LmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA0MTglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNDE4VDEwMDU0MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTcyYzY5NmMyNTYzZjU3MmY1ZGQyMjgwMTY2YzIxODhkOWMwYjBmNmM4YjZlMzhkNjk0ZDdmZmI4NzcwODkzYWImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.Ycj5QxMwdcGhldFtyWAsm-NJaNvSZ_x8Q9AXTSFTOm4)
-![wifi](https://private-user-images.githubusercontent.com/68772640/323278701-b265c829-7099-4c5b-a72d-9071254ef4b6.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTM0MzUwNDIsIm5iZiI6MTcxMzQzNDc0MiwicGF0aCI6Ii82ODc3MjY0MC8zMjMyNzg3MDEtYjI2NWM4MjktNzA5OS00YzViLWE3MmQtOTA3MTI1NGVmNGI2LmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA0MTglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNDE4VDEwMDU0MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTcyYzY5NmMyNTYzZjU3MmY1ZGQyMjgwMTY2YzIxODhkOWMwYjBmNmM4YjZlMzhkNjk0ZDdmZmI4NzcwODkzYWImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.Ycj5QxMwdcGhldFtyWAsm-NJaNvSZ_x8Q9AXTSFTOm4)
 
 ```
 개발기간: 2024.04.01 ~ 2024.04.15
@@ -102,12 +98,10 @@
 
 <hr/>
 
-<div align="center">
-
-| ![wifi-service](https://github.com/JYPIT/zerobase-study22/assets/68772640/d4703b99-45b2-484d-a80e-78fd53e92d98) 서비스 구현 전체 |
-|---------------------------------------------------------------------------------------------------------------------------|
-
-</div>
+<p align="center">
+<img src="https://github.com/JYPIT/zerobase-study22/assets/68772640/d4703b99-45b2-484d-a80e-78fd53e92d98" alt="" width="100%">
+서비스 구현 전체
+</p>
 
 | ![load-wifi](https://github.com/JYPIT/zerobase-study22/assets/68772640/572d2913-510d-4013-a4fc-17e2637b1230) 공공와이파이 API 호출 | 
 |----------------------------------------------------------------------------------------------------------------------------|
@@ -122,11 +116,7 @@
 
 ## 개선할 사항
 
-### 1
-
-### 2
-
-### 3
+### 1. 첫번째 컬럼의 거리를 가까운 순서대로 정렬.
 
 <hr/>
 커버 이미지 출처 - <a href="https://unsplash.com/" target="_blank">Unsplash</a>
